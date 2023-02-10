@@ -1,0 +1,9 @@
+setuptools 
+wheel
+numpy
+pandas
+sklearn
+tqdm
+spacy
+sentence_transformers
+transformers
